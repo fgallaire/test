@@ -7,7 +7,7 @@ http://txt2tags.org
 % Output file name contains no .aat extension
 %!options(aat): -o README
 
-Txt2tags is a document generator. It reads a text file with
+Txt2tags is a great document generator. It reads a text file with
 minimal markup as ``**bold**`` and ``//italic//`` and converts it
 to the following formats:
 
